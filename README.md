@@ -1,5 +1,5 @@
-ArenaFlow
-Description
+## ArenaFlow
+# Description
 This project is a Python prototype designed for real-time person detection and counting using a live camera feed (a webcam was used for testing). It uses the YOLOv8 object detection model via the ultralytics library and uses OpenCV for video capture and display.
 
 The script counts the number of people detected in each frame and displays a visual warning if the count exceeds a configurable threshold (mentioned later).
